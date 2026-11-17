@@ -1,0 +1,17 @@
+{
+  "language_code": "sh",
+  "language_probability": 0.39510563015937805,
+  "text": "[tone]",
+  "words": [
+    {
+      "text": "[tone]",
+      "start": 0.0,
+      "end": 5.96,
+      "type": "audio_event",
+      "speaker_id": "speaker_0",
+      "logprob": -0.4794468184312161
+    }
+  ],
+  "transcription_id": "eojKp9F09WaerRVYRTEa",
+  "audio_duration_secs": 6.0
+}

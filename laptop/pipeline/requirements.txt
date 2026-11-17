@@ -1,0 +1,7 @@
+faster-whisper
+av<16  # faster-whisper 1.2.x passes an open() arg PyAV 16+ removed
+opencv-python-headless  # face detection for auto-reframing vertical drafts
+pycapcut
+pyyaml
+requests
+python-dotenv

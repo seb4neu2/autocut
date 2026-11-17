@@ -1,0 +1,19 @@
+# Copy this to config.yaml and fill in your actual paths.
+#
+# Maps a Linux mount path (where this pipeline reads/writes files) to the
+# Windows path CapCut will see when you open the generated draft there.
+# Only used by build_draft.py.
+path_mappings:
+  - linux_prefix: /mnt/data          # where the "Data" NTFS partition is mounted in Linux
+    windows_prefix: "D:\\"
+  - linux_prefix: /mnt/ssd           # external USB-C SSD, when connected
+    windows_prefix: "E:\\"           # update once you confirm the actual Windows drive letter
+
+# Where generated CapCut draft folders get written. Either:
+#   - a plain local folder you'll manually copy into CapCut's drafts directory, or
+#   - a folder on the shared Data partition that CapCut's "draft storage location"
+#     setting (if available in your CapCut version) already points at.
+draft_output_dir: /home/niu/Work/AutoCut/capcut_drafts
+
+video_width: 1920
+video_height: 1080

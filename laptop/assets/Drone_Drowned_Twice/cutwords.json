@@ -1,0 +1,2264 @@
+{
+ "DJI_20260420062138_0057_D.MP4|132.404|138.354": [
+  {
+   "text": "No,",
+   "type": "word",
+   "start": 0.1,
+   "end": 0.5
+  },
+  {
+   "text": "don't",
+   "type": "word",
+   "start": 0.66,
+   "end": 0.88
+  },
+  {
+   "text": "go",
+   "type": "word",
+   "start": 0.94,
+   "end": 1.08
+  },
+  {
+   "text": "in",
+   "type": "word",
+   "start": 1.14,
+   "end": 1.24
+  },
+  {
+   "text": "the",
+   "type": "word",
+   "start": 1.28,
+   "end": 1.36
+  },
+  {
+   "text": "water",
+   "type": "word",
+   "start": 1.42,
+   "end": 1.72
+  },
+  {
+   "text": "again.",
+   "type": "word",
+   "start": 1.82,
+   "end": 2.24
+  },
+  {
+   "text": "[laughs]",
+   "type": "audio_event",
+   "start": 2.36,
+   "end": 4.3
+  },
+  {
+   "text": "That's",
+   "type": "word",
+   "start": 4.36,
+   "end": 4.68
+  },
+  {
+   "text": "ridiculous.",
+   "type": "word",
+   "start": 4.76,
+   "end": 5.76
+  }
+ ],
+ "DJI_20260420062138_0057_D.MP4|346.536|349.426": [
+  {
+   "text": "I",
+   "type": "word",
+   "start": 0.09,
+   "end": 0.15
+  },
+  {
+   "text": "just",
+   "type": "word",
+   "start": 0.23,
+   "end": 0.35
+  },
+  {
+   "text": "dried",
+   "type": "word",
+   "start": 0.51,
+   "end": 0.85
+  },
+  {
+   "text": "it,",
+   "type": "word",
+   "start": 0.91,
+   "end": 1.07
+  },
+  {
+   "text": "it",
+   "type": "word",
+   "start": 1.17,
+   "end": 1.27
+  },
+  {
+   "text": "was",
+   "type": "word",
+   "start": 1.31,
+   "end": 1.49
+  },
+  {
+   "text": "dry,",
+   "type": "word",
+   "start": 1.57,
+   "end": 1.97
+  },
+  {
+   "text": "and",
+   "type": "word",
+   "start": 2.09,
+   "end": 2.19
+  },
+  {
+   "text": "then",
+   "type": "word",
+   "start": 2.25,
+   "end": 2.45
+  },
+  {
+   "text": "I...",
+   "type": "word",
+   "start": 2.59,
+   "end": 2.69
+  }
+ ],
+ "DJI_20260420002924_0054_D.MP4|28.628|31.138": [
+  {
+   "text": "So,",
+   "type": "word",
+   "start": 0.12,
+   "end": 0.62
+  },
+  {
+   "text": "good",
+   "type": "word",
+   "start": 1.2,
+   "end": 1.4
+  },
+  {
+   "text": "morning.",
+   "type": "word",
+   "start": 1.56,
+   "end": 2.34
+  }
+ ],
+ "DJI_20260420002924_0054_D.MP4|31.768|40.118": [
+  {
+   "text": "I",
+   "type": "word",
+   "start": 0.11,
+   "end": 0.15
+  },
+  {
+   "text": "was",
+   "type": "word",
+   "start": 0.21,
+   "end": 0.43
+  },
+  {
+   "text": "flying",
+   "type": "word",
+   "start": 0.53,
+   "end": 1.01
+  },
+  {
+   "text": "today",
+   "type": "word",
+   "start": 1.07,
+   "end": 1.75
+  },
+  {
+   "text": "with",
+   "type": "word",
+   "start": 1.87,
+   "end": 2.47
+  },
+  {
+   "text": "my",
+   "type": "word",
+   "start": 2.57,
+   "end": 2.75
+  },
+  {
+   "text": "drone",
+   "type": "word",
+   "start": 2.85,
+   "end": 3.57
+  },
+  {
+   "text": "and",
+   "type": "word",
+   "start": 4.77,
+   "end": 4.95
+  },
+  {
+   "text": "I",
+   "type": "word",
+   "start": 5.05,
+   "end": 5.07
+  },
+  {
+   "text": "wanted",
+   "type": "word",
+   "start": 5.11,
+   "end": 5.39
+  },
+  {
+   "text": "to",
+   "type": "word",
+   "start": 5.45,
+   "end": 5.53
+  },
+  {
+   "text": "record",
+   "type": "word",
+   "start": 5.57,
+   "end": 5.93
+  },
+  {
+   "text": "a",
+   "type": "word",
+   "start": 5.97,
+   "end": 6.03
+  },
+  {
+   "text": "video",
+   "type": "word",
+   "start": 6.09,
+   "end": 6.45
+  },
+  {
+   "text": "for",
+   "type": "word",
+   "start": 6.59,
+   "end": 7.13
+  },
+  {
+   "text": "the",
+   "type": "word",
+   "start": 7.23,
+   "end": 7.31
+  },
+  {
+   "text": "home",
+   "type": "word",
+   "start": 7.39,
+   "end": 7.61
+  },
+  {
+   "text": "stay",
+   "type": "word",
+   "start": 7.75,
+   "end": 8.01
+  }
+ ],
+ "DJI_20260420002924_0054_D.MP4|41.168|46.298": [
+  {
+   "text": "and,",
+   "type": "word",
+   "start": 0.1,
+   "end": 0.52
+  },
+  {
+   "text": "uh,",
+   "type": "word",
+   "start": 0.64,
+   "end": 1.1
+  },
+  {
+   "text": "yeah,",
+   "type": "word",
+   "start": 1.16,
+   "end": 1.4
+  },
+  {
+   "text": "I",
+   "type": "word",
+   "start": 3.059,
+   "end": 3.12
+  },
+  {
+   "text": "fell",
+   "type": "word",
+   "start": 3.18,
+   "end": 3.38
+  },
+  {
+   "text": "into",
+   "type": "word",
+   "start": 3.46,
+   "end": 3.74
+  },
+  {
+   "text": "the",
+   "type": "word",
+   "start": 3.8,
+   "end": 3.92
+  },
+  {
+   "text": "water.",
+   "type": "word",
+   "start": 3.98,
+   "end": 4.88
+  }
+ ],
+ "DJI_20260420002924_0054_D.MP4|49.740|57.950": [
+  {
+   "text": "Ugh,",
+   "type": "word",
+   "start": 0.13,
+   "end": 0.59
+  },
+  {
+   "text": "I",
+   "type": "word",
+   "start": 0.77,
+   "end": 0.83
+  },
+  {
+   "text": "actually,",
+   "type": "word",
+   "start": 0.89,
+   "end": 1.19
+  },
+  {
+   "text": "actually",
+   "type": "word",
+   "start": 1.31,
+   "end": 1.69
+  },
+  {
+   "text": "fell",
+   "type": "word",
+   "start": 1.81,
+   "end": 2.17
+  },
+  {
+   "text": "here.",
+   "type": "word",
+   "start": 2.29,
+   "end": 2.67
+  },
+  {
+   "text": "It",
+   "type": "word",
+   "start": 3.97,
+   "end": 4.09
+  },
+  {
+   "text": "fell,",
+   "type": "word",
+   "start": 4.17,
+   "end": 4.43
+  },
+  {
+   "text": "uh,",
+   "type": "word",
+   "start": 4.67,
+   "end": 4.71
+  },
+  {
+   "text": "the",
+   "type": "word",
+   "start": 4.81,
+   "end": 4.89
+  },
+  {
+   "text": "drone",
+   "type": "word",
+   "start": 4.95,
+   "end": 5.23
+  },
+  {
+   "text": "fell",
+   "type": "word",
+   "start": 5.39,
+   "end": 5.89
+  },
+  {
+   "text": "in",
+   "type": "word",
+   "start": 6.03,
+   "end": 6.45
+  },
+  {
+   "text": "this",
+   "type": "word",
+   "start": 6.59,
+   "end": 6.79
+  },
+  {
+   "text": "place",
+   "type": "word",
+   "start": 6.85,
+   "end": 7.21
+  },
+  {
+   "text": "there.",
+   "type": "word",
+   "start": 7.67,
+   "end": 7.93
+  }
+ ],
+ "DJI_20260420002924_0054_D.MP4|62.576|65.126": [
+  {
+   "text": "I",
+   "type": "word",
+   "start": 0.14,
+   "end": 0.18
+  },
+  {
+   "text": "went",
+   "type": "word",
+   "start": 0.32,
+   "end": 0.9
+  },
+  {
+   "text": "into",
+   "type": "word",
+   "start": 1.04,
+   "end": 1.44
+  },
+  {
+   "text": "the",
+   "type": "word",
+   "start": 1.5,
+   "end": 1.6
+  },
+  {
+   "text": "water.",
+   "type": "word",
+   "start": 1.72,
+   "end": 2.28
+  }
+ ],
+ "DJI_20260420002924_0054_D.MP4|65.796|77.046": [
+  {
+   "text": "Luckily,",
+   "type": "word",
+   "start": 0.11,
+   "end": 0.57
+  },
+  {
+   "text": "I",
+   "type": "word",
+   "start": 0.79,
+   "end": 0.85
+  },
+  {
+   "text": "had",
+   "type": "word",
+   "start": 0.91,
+   "end": 1.13
+  },
+  {
+   "text": "my,",
+   "type": "word",
+   "start": 1.19,
+   "end": 1.43
+  },
+  {
+   "text": "uh,",
+   "type": "word",
+   "start": 3.79,
+   "end": 3.95
+  },
+  {
+   "text": "swimming",
+   "type": "word",
+   "start": 5.13,
+   "end": 5.47
+  },
+  {
+   "text": "goggle",
+   "type": "word",
+   "start": 5.55,
+   "end": 5.93
+  },
+  {
+   "text": "because",
+   "type": "word",
+   "start": 6.07,
+   "end": 6.35
+  },
+  {
+   "text": "otherwise",
+   "type": "word",
+   "start": 6.43,
+   "end": 6.85
+  },
+  {
+   "text": "it",
+   "type": "word",
+   "start": 6.91,
+   "end": 6.97
+  },
+  {
+   "text": "would",
+   "type": "word",
+   "start": 7.01,
+   "end": 7.17
+  },
+  {
+   "text": "be",
+   "type": "word",
+   "start": 7.21,
+   "end": 7.31
+  },
+  {
+   "text": "difficult",
+   "type": "word",
+   "start": 7.37,
+   "end": 7.85
+  },
+  {
+   "text": "to",
+   "type": "word",
+   "start": 7.91,
+   "end": 8.03
+  },
+  {
+   "text": "find",
+   "type": "word",
+   "start": 8.11,
+   "end": 8.31
+  },
+  {
+   "text": "the",
+   "type": "word",
+   "start": 8.37,
+   "end": 8.47
+  },
+  {
+   "text": "drone",
+   "type": "word",
+   "start": 8.55,
+   "end": 8.91
+  },
+  {
+   "text": "without",
+   "type": "word",
+   "start": 9.05,
+   "end": 9.53
+  },
+  {
+   "text": "opening",
+   "type": "word",
+   "start": 9.63,
+   "end": 10.19
+  },
+  {
+   "text": "my",
+   "type": "word",
+   "start": 10.25,
+   "end": 10.43
+  },
+  {
+   "text": "eyes.",
+   "type": "word",
+   "start": 10.53,
+   "end": 10.99
+  }
+ ],
+ "DJI_20260420002924_0054_D.MP4|121.576|130.106": [
+  {
+   "text": "It",
+   "type": "word",
+   "start": 0.1,
+   "end": 0.18
+  },
+  {
+   "text": "was",
+   "type": "word",
+   "start": 0.22,
+   "end": 0.38
+  },
+  {
+   "text": "quite",
+   "type": "word",
+   "start": 0.44,
+   "end": 0.66
+  },
+  {
+   "text": "interesting",
+   "type": "word",
+   "start": 0.74,
+   "end": 1.54
+  },
+  {
+   "text": "because",
+   "type": "word",
+   "start": 1.62,
+   "end": 2.08
+  },
+  {
+   "text": "the",
+   "type": "word",
+   "start": 2.22,
+   "end": 2.66
+  },
+  {
+   "text": "drone",
+   "type": "word",
+   "start": 2.86,
+   "end": 3.54
+  },
+  {
+   "text": "was",
+   "type": "word",
+   "start": 3.82,
+   "end": 4.08
+  },
+  {
+   "text": "still",
+   "type": "word",
+   "start": 4.24,
+   "end": 4.64
+  },
+  {
+   "text": "working",
+   "type": "word",
+   "start": 5.58,
+   "end": 6.06
+  },
+  {
+   "text": "below",
+   "type": "word",
+   "start": 6.14,
+   "end": 6.48
+  },
+  {
+   "text": "the",
+   "type": "word",
+   "start": 6.52,
+   "end": 6.62
+  },
+  {
+   "text": "water.",
+   "type": "word",
+   "start": 6.68,
+   "end": 7.06
+  },
+  {
+   "text": "I",
+   "type": "word",
+   "start": 7.2,
+   "end": 7.26
+  },
+  {
+   "text": "saw",
+   "type": "word",
+   "start": 7.36,
+   "end": 7.56
+  },
+  {
+   "text": "the",
+   "type": "word",
+   "start": 7.62,
+   "end": 7.7
+  },
+  {
+   "text": "lights.",
+   "type": "word",
+   "start": 7.76,
+   "end": 8.26
+  }
+ ],
+ "DJI_20260420002924_0054_D.MP4|81.156|91.746": [
+  {
+   "text": "I",
+   "type": "word",
+   "start": 0.11,
+   "end": 0.21
+  },
+  {
+   "text": "put",
+   "type": "word",
+   "start": 0.29,
+   "end": 0.51
+  },
+  {
+   "text": "the",
+   "type": "word",
+   "start": 0.59,
+   "end": 1.03
+  },
+  {
+   "text": "drone",
+   "type": "word",
+   "start": 1.13,
+   "end": 1.89
+  },
+  {
+   "text": "into",
+   "type": "word",
+   "start": 2.01,
+   "end": 2.81
+  },
+  {
+   "text": "ethanol.",
+   "type": "word",
+   "start": 2.89,
+   "end": 3.45
+  },
+  {
+   "text": "I",
+   "type": "word",
+   "start": 3.67,
+   "end": 3.71
+  },
+  {
+   "text": "had,",
+   "type": "word",
+   "start": 3.77,
+   "end": 3.99
+  },
+  {
+   "text": "like,",
+   "type": "word",
+   "start": 4.09,
+   "end": 4.31
+  },
+  {
+   "text": "seventy",
+   "type": "word",
+   "start": 4.67,
+   "end": 5.05
+  },
+  {
+   "text": "percent",
+   "type": "word",
+   "start": 5.15,
+   "end": 5.57
+  },
+  {
+   "text": "ethanol",
+   "type": "word",
+   "start": 5.65,
+   "end": 6.17
+  },
+  {
+   "text": "and",
+   "type": "word",
+   "start": 7.49,
+   "end": 7.61
+  },
+  {
+   "text": "then",
+   "type": "word",
+   "start": 7.67,
+   "end": 7.85
+  },
+  {
+   "text": "I",
+   "type": "word",
+   "start": 7.93,
+   "end": 7.95
+  },
+  {
+   "text": "also",
+   "type": "word",
+   "start": 8.01,
+   "end": 8.23
+  },
+  {
+   "text": "had",
+   "type": "word",
+   "start": 8.29,
+   "end": 8.41
+  },
+  {
+   "text": "a",
+   "type": "word",
+   "start": 8.47,
+   "end": 8.53
+  },
+  {
+   "text": "bottle",
+   "type": "word",
+   "start": 8.59,
+   "end": 8.87
+  },
+  {
+   "text": "of",
+   "type": "word",
+   "start": 8.93,
+   "end": 9.05
+  },
+  {
+   "text": "ninety",
+   "type": "word",
+   "start": 9.11,
+   "end": 9.35
+  },
+  {
+   "text": "percent",
+   "type": "word",
+   "start": 9.43,
+   "end": 9.77
+  },
+  {
+   "text": "ethanol.",
+   "type": "word",
+   "start": 9.85,
+   "end": 10.39
+  }
+ ],
+ "DJI_20260420002924_0054_D.MP4|174.812|182.542": [
+  {
+   "text": "I",
+   "type": "word",
+   "start": 0.1,
+   "end": 0.14
+  },
+  {
+   "text": "will",
+   "type": "word",
+   "start": 0.18,
+   "end": 0.34
+  },
+  {
+   "text": "tell",
+   "type": "word",
+   "start": 0.4,
+   "end": 0.58
+  },
+  {
+   "text": "you",
+   "type": "word",
+   "start": 0.66,
+   "end": 0.76
+  },
+  {
+   "text": "later",
+   "type": "word",
+   "start": 0.8,
+   "end": 1.18
+  },
+  {
+   "text": "if",
+   "type": "word",
+   "start": 1.4,
+   "end": 1.9
+  },
+  {
+   "text": "this",
+   "type": "word",
+   "start": 1.98,
+   "end": 2.14
+  },
+  {
+   "text": "worked",
+   "type": "word",
+   "start": 2.22,
+   "end": 2.58
+  },
+  {
+   "text": "or",
+   "type": "word",
+   "start": 2.76,
+   "end": 2.9
+  },
+  {
+   "text": "not",
+   "type": "word",
+   "start": 2.94,
+   "end": 3.1
+  },
+  {
+   "text": "[laughs]",
+   "type": "audio_event",
+   "start": 3.24,
+   "end": 4.72
+  },
+  {
+   "text": ".",
+   "type": "word",
+   "start": 4.72,
+   "end": 4.72
+  },
+  {
+   "text": "I",
+   "type": "word",
+   "start": 4.84,
+   "end": 4.88
+  },
+  {
+   "text": "hope",
+   "type": "word",
+   "start": 4.94,
+   "end": 5.16
+  },
+  {
+   "text": "so.",
+   "type": "word",
+   "start": 5.24,
+   "end": 5.5
+  },
+  {
+   "text": "Fingers",
+   "type": "word",
+   "start": 6.16,
+   "end": 6.74
+  },
+  {
+   "text": "crossed,",
+   "type": "word",
+   "start": 6.9,
+   "end": 7.46
+  },
+  {
+   "text": "mm.",
+   "type": "word",
+   "start": 7.6,
+   "end": 7.62
+  }
+ ],
+ "DJI_20260420062138_0057_D.MP4|8.972|17.582": [
+  {
+   "text": "The",
+   "type": "word",
+   "start": 0.17,
+   "end": 0.27
+  },
+  {
+   "text": "moment",
+   "type": "word",
+   "start": 0.35,
+   "end": 0.73
+  },
+  {
+   "text": "of",
+   "type": "word",
+   "start": 0.79,
+   "end": 0.93
+  },
+  {
+   "text": "truth.",
+   "type": "word",
+   "start": 1.01,
+   "end": 1.43
+  },
+  {
+   "text": "Will",
+   "type": "word",
+   "start": 2.69,
+   "end": 2.91
+  },
+  {
+   "text": "the",
+   "type": "word",
+   "start": 2.95,
+   "end": 3.07
+  },
+  {
+   "text": "drone",
+   "type": "word",
+   "start": 3.13,
+   "end": 3.49
+  },
+  {
+   "text": "work",
+   "type": "word",
+   "start": 3.57,
+   "end": 3.93
+  },
+  {
+   "text": "after",
+   "type": "word",
+   "start": 5.03,
+   "end": 5.47
+  },
+  {
+   "text": "swimming",
+   "type": "word",
+   "start": 7.45,
+   "end": 7.89
+  },
+  {
+   "text": "today?",
+   "type": "word",
+   "start": 7.95,
+   "end": 8.35
+  }
+ ],
+ "DJI_20260420062138_0057_D.MP4|20.592|23.561": [
+  {
+   "text": "I",
+   "type": "word",
+   "start": 0.14,
+   "end": 0.18
+  },
+  {
+   "text": "don't",
+   "type": "word",
+   "start": 0.22,
+   "end": 0.4
+  },
+  {
+   "text": "hear",
+   "type": "word",
+   "start": 0.46,
+   "end": 0.64
+  },
+  {
+   "text": "any",
+   "type": "word",
+   "start": 0.7,
+   "end": 0.88
+  },
+  {
+   "text": "water.",
+   "type": "word",
+   "start": 0.92,
+   "end": 1.3
+  },
+  {
+   "text": "Okay,",
+   "type": "word",
+   "start": 1.78,
+   "end": 2.14
+  },
+  {
+   "text": "that's",
+   "type": "word",
+   "start": 2.2,
+   "end": 2.46
+  },
+  {
+   "text": "good.",
+   "type": "word",
+   "start": 2.5,
+   "end": 2.72
+  }
+ ],
+ "DJI_20260420062138_0057_D.MP4|62.052|68.530": [
+  {
+   "text": "The",
+   "type": "word",
+   "start": 0.091,
+   "end": 0.211
+  },
+  {
+   "text": "display",
+   "type": "word",
+   "start": 0.271,
+   "end": 0.671
+  },
+  {
+   "text": "has",
+   "type": "word",
+   "start": 0.731,
+   "end": 0.871
+  },
+  {
+   "text": "some",
+   "type": "word",
+   "start": 0.931,
+   "end": 1.111
+  },
+  {
+   "text": "problems",
+   "type": "word",
+   "start": 1.131,
+   "end": 1.691
+  },
+  {
+   "text": "but",
+   "type": "word",
+   "start": 5.151,
+   "end": 5.271
+  },
+  {
+   "text": "it's",
+   "type": "word",
+   "start": 5.331,
+   "end": 5.491
+  },
+  {
+   "text": "still",
+   "type": "word",
+   "start": 5.511,
+   "end": 5.751
+  },
+  {
+   "text": "working.",
+   "type": "word",
+   "start": 5.811,
+   "end": 6.311
+  }
+ ],
+ "DJI_20260420062138_0057_D.MP4|91.264|93.054": [
+  {
+   "text": "Okay,",
+   "type": "word",
+   "start": 0.113,
+   "end": 0.293
+  },
+  {
+   "text": "let's",
+   "type": "word",
+   "start": 0.353,
+   "end": 0.493
+  },
+  {
+   "text": "do",
+   "type": "word",
+   "start": 0.573,
+   "end": 0.653
+  },
+  {
+   "text": "a",
+   "type": "word",
+   "start": 0.733,
+   "end": 0.773
+  },
+  {
+   "text": "selfie",
+   "type": "word",
+   "start": 0.833,
+   "end": 1.153
+  },
+  {
+   "text": "shot.",
+   "type": "word",
+   "start": 1.193,
+   "end": 1.473
+  }
+ ],
+ "DJI_20260420062138_0057_D.MP4|106.264|114.074": [
+  {
+   "text": "Okay,",
+   "type": "word",
+   "start": 0.103,
+   "end": 0.323
+  },
+  {
+   "text": "so",
+   "type": "word",
+   "start": 1.103,
+   "end": 1.263
+  },
+  {
+   "text": "this",
+   "type": "word",
+   "start": 1.323,
+   "end": 1.463
+  },
+  {
+   "text": "was,",
+   "type": "word",
+   "start": 1.523,
+   "end": 1.723
+  },
+  {
+   "text": "uh,",
+   "type": "word",
+   "start": 1.843,
+   "end": 2.123
+  },
+  {
+   "text": "not",
+   "type": "word",
+   "start": 2.283,
+   "end": 2.463
+  },
+  {
+   "text": "good",
+   "type": "word",
+   "start": 2.523,
+   "end": 2.783
+  },
+  {
+   "text": "[laughs]",
+   "type": "audio_event",
+   "start": 2.803,
+   "end": 4.283
+  },
+  {
+   "text": "but,",
+   "type": "word",
+   "start": 4.363,
+   "end": 4.703
+  },
+  {
+   "text": "uh,",
+   "type": "word",
+   "start": 4.783,
+   "end": 4.923
+  },
+  {
+   "text": "he",
+   "type": "word",
+   "start": 6.043,
+   "end": 6.183
+  },
+  {
+   "text": "w-",
+   "type": "word",
+   "start": 6.283,
+   "end": 6.303
+  },
+  {
+   "text": "he",
+   "type": "word",
+   "start": 6.803,
+   "end": 6.883
+  },
+  {
+   "text": "was",
+   "type": "word",
+   "start": 6.923,
+   "end": 7.083
+  },
+  {
+   "text": "flying,",
+   "type": "word",
+   "start": 7.143,
+   "end": 7.543
+  },
+  {
+   "text": "okay.",
+   "type": "word",
+   "start": 7.683,
+   "end": 7.803
+  }
+ ],
+ "DJI_20260420062138_0057_D.MP4|113.844|118.134": [
+  {
+   "text": "Okay,",
+   "type": "word",
+   "start": 0.113,
+   "end": 0.273
+  },
+  {
+   "text": "let's,",
+   "type": "word",
+   "start": 0.353,
+   "end": 0.593
+  },
+  {
+   "text": "let's",
+   "type": "word",
+   "start": 0.633,
+   "end": 0.833
+  },
+  {
+   "text": "make",
+   "type": "word",
+   "start": 0.893,
+   "end": 1.093
+  },
+  {
+   "text": "follow.",
+   "type": "word",
+   "start": 1.173,
+   "end": 1.613
+  },
+  {
+   "text": "Maybe",
+   "type": "word",
+   "start": 2.653,
+   "end": 2.913
+  },
+  {
+   "text": "follow",
+   "type": "word",
+   "start": 2.993,
+   "end": 3.233
+  },
+  {
+   "text": "will",
+   "type": "word",
+   "start": 3.293,
+   "end": 3.453
+  },
+  {
+   "text": "be",
+   "type": "word",
+   "start": 3.493,
+   "end": 3.613
+  },
+  {
+   "text": "better",
+   "type": "word",
+   "start": 3.653,
+   "end": 4.013
+  },
+  {
+   "text": "[laughs]",
+   "type": "audio_event",
+   "start": 4.053,
+   "end": 4.29
+  }
+ ],
+ "DJI_20260420062138_0057_D.MP4|132.404|142.234": [
+  {
+   "text": ".",
+   "type": "word",
+   "start": 0.003,
+   "end": 0.003
+  },
+  {
+   "text": "Follow.",
+   "type": "word",
+   "start": 0.043,
+   "end": 0.523
+  },
+  {
+   "text": "No,",
+   "type": "word",
+   "start": 0.543,
+   "end": 0.583
+  },
+  {
+   "text": "don't",
+   "type": "word",
+   "start": 0.663,
+   "end": 0.883
+  },
+  {
+   "text": "go",
+   "type": "word",
+   "start": 0.923,
+   "end": 1.103
+  },
+  {
+   "text": "in",
+   "type": "word",
+   "start": 1.143,
+   "end": 1.223
+  },
+  {
+   "text": "the",
+   "type": "word",
+   "start": 1.283,
+   "end": 1.363
+  },
+  {
+   "text": "water",
+   "type": "word",
+   "start": 1.423,
+   "end": 1.723
+  },
+  {
+   "text": "again.",
+   "type": "word",
+   "start": 1.803,
+   "end": 2.343
+  },
+  {
+   "text": "[laughs]",
+   "type": "audio_event",
+   "start": 2.363,
+   "end": 4.303
+  },
+  {
+   "text": "That's",
+   "type": "word",
+   "start": 4.363,
+   "end": 4.703
+  },
+  {
+   "text": "ridiculous.",
+   "type": "word",
+   "start": 4.763,
+   "end": 5.703
+  },
+  {
+   "text": "This",
+   "type": "word",
+   "start": 6.423,
+   "end": 6.883
+  },
+  {
+   "text": "is",
+   "type": "word",
+   "start": 6.883,
+   "end": 6.923
+  },
+  {
+   "text": "ridiculous.",
+   "type": "word",
+   "start": 6.983,
+   "end": 7.823
+  },
+  {
+   "text": "Holy",
+   "type": "word",
+   "start": 8.443,
+   "end": 8.863
+  },
+  {
+   "text": "shit.",
+   "type": "word",
+   "start": 8.963,
+   "end": 9.403
+  }
+ ],
+ "DJI_20260420062138_0057_D.MP4|144.516|148.686": [
+  {
+   "text": "What",
+   "type": "word",
+   "start": 0.093,
+   "end": 0.413
+  },
+  {
+   "text": "the",
+   "type": "word",
+   "start": 0.533,
+   "end": 0.693
+  },
+  {
+   "text": "fuck?",
+   "type": "word",
+   "start": 0.913,
+   "end": 1.533
+  },
+  {
+   "text": "I",
+   "type": "word",
+   "start": 2.553,
+   "end": 2.593
+  },
+  {
+   "text": "need",
+   "type": "word",
+   "start": 2.653,
+   "end": 2.793
+  },
+  {
+   "text": "to",
+   "type": "word",
+   "start": 2.873,
+   "end": 2.993
+  },
+  {
+   "text": "swim",
+   "type": "word",
+   "start": 3.073,
+   "end": 3.373
+  },
+  {
+   "text": "again.",
+   "type": "word",
+   "start": 3.473,
+   "end": 3.973
+  }
+ ],
+ "DJI_20260420062138_0057_D.MP4|152.908|155.038": [
+  {
+   "text": "That",
+   "type": "word",
+   "start": 0.103,
+   "end": 0.323
+  },
+  {
+   "text": "was",
+   "type": "word",
+   "start": 0.383,
+   "end": 0.663
+  },
+  {
+   "text": "very",
+   "type": "word",
+   "start": 0.743,
+   "end": 1.123
+  },
+  {
+   "text": "sad.",
+   "type": "word",
+   "start": 1.263,
+   "end": 1.823
+  }
+ ],
+ "DJI_20260420062138_0057_D.MP4|346.536|352.546": [
+  {
+   "text": "I",
+   "type": "word",
+   "start": 0.113,
+   "end": 0.153
+  },
+  {
+   "text": "just",
+   "type": "word",
+   "start": 0.233,
+   "end": 0.353
+  },
+  {
+   "text": "dried",
+   "type": "word",
+   "start": 0.513,
+   "end": 0.853
+  },
+  {
+   "text": "it,",
+   "type": "word",
+   "start": 0.913,
+   "end": 1.073
+  },
+  {
+   "text": "it",
+   "type": "word",
+   "start": 1.193,
+   "end": 1.253
+  },
+  {
+   "text": "was",
+   "type": "word",
+   "start": 1.313,
+   "end": 1.493
+  },
+  {
+   "text": "dry,",
+   "type": "word",
+   "start": 1.573,
+   "end": 1.973
+  },
+  {
+   "text": "and",
+   "type": "word",
+   "start": 2.093,
+   "end": 2.193
+  },
+  {
+   "text": "then",
+   "type": "word",
+   "start": 2.253,
+   "end": 2.453
+  },
+  {
+   "text": "I...",
+   "type": "word",
+   "start": 2.593,
+   "end": 2.653
+  },
+  {
+   "text": "Yeah,",
+   "type": "word",
+   "start": 3.273,
+   "end": 3.433
+  },
+  {
+   "text": "it",
+   "type": "word",
+   "start": 3.593,
+   "end": 3.673
+  },
+  {
+   "text": "was",
+   "type": "word",
+   "start": 3.733,
+   "end": 3.853
+  },
+  {
+   "text": "my",
+   "type": "word",
+   "start": 3.893,
+   "end": 4.013
+  },
+  {
+   "text": "mistake.",
+   "type": "word",
+   "start": 4.053,
+   "end": 4.433
+  },
+  {
+   "text": "Of",
+   "type": "word",
+   "start": 4.493,
+   "end": 4.593
+  },
+  {
+   "text": "course",
+   "type": "word",
+   "start": 4.653,
+   "end": 4.853
+  },
+  {
+   "text": "it",
+   "type": "word",
+   "start": 4.873,
+   "end": 4.953
+  },
+  {
+   "text": "was",
+   "type": "word",
+   "start": 4.993,
+   "end": 5.113
+  },
+  {
+   "text": "my",
+   "type": "word",
+   "start": 5.153,
+   "end": 5.273
+  },
+  {
+   "text": "mistake.",
+   "type": "word",
+   "start": 5.313,
+   "end": 5.813
+  }
+ ],
+ "DJI_20260420062138_0057_D.MP4|363.428|369.978": [
+  {
+   "text": "I",
+   "type": "word",
+   "start": 0.103,
+   "end": 0.143
+  },
+  {
+   "text": "will",
+   "type": "word",
+   "start": 0.183,
+   "end": 0.303
+  },
+  {
+   "text": "have",
+   "type": "word",
+   "start": 0.363,
+   "end": 0.543
+  },
+  {
+   "text": "to",
+   "type": "word",
+   "start": 0.603,
+   "end": 0.683
+  },
+  {
+   "text": "buy",
+   "type": "word",
+   "start": 0.843,
+   "end": 1.063
+  },
+  {
+   "text": "alcohol",
+   "type": "word",
+   "start": 1.143,
+   "end": 1.643
+  },
+  {
+   "text": "now",
+   "type": "word",
+   "start": 1.703,
+   "end": 1.923
+  },
+  {
+   "text": "and",
+   "type": "word",
+   "start": 2.923,
+   "end": 3.183
+  },
+  {
+   "text": "dry",
+   "type": "word",
+   "start": 3.263,
+   "end": 3.503
+  },
+  {
+   "text": "it",
+   "type": "word",
+   "start": 3.543,
+   "end": 3.623
+  },
+  {
+   "text": "again,",
+   "type": "word",
+   "start": 3.703,
+   "end": 3.983
+  },
+  {
+   "text": "but",
+   "type": "word",
+   "start": 5.203,
+   "end": 5.343
+  },
+  {
+   "text": "first",
+   "type": "word",
+   "start": 5.403,
+   "end": 5.623
+  },
+  {
+   "text": "I",
+   "type": "word",
+   "start": 5.743,
+   "end": 5.783
+  },
+  {
+   "text": "shower.",
+   "type": "word",
+   "start": 5.843,
+   "end": 6.243
+  }
+ ],
+ "DJI_20260420063131_0058_D.MP4|28.312|34.982": [
+  {
+   "text": "This",
+   "type": "word",
+   "start": 0.093,
+   "end": 0.233
+  },
+  {
+   "text": "is",
+   "type": "word",
+   "start": 0.313,
+   "end": 0.433
+  },
+  {
+   "text": "seventy",
+   "type": "word",
+   "start": 0.493,
+   "end": 0.853
+  },
+  {
+   "text": "percent",
+   "type": "word",
+   "start": 0.933,
+   "end": 1.313
+  },
+  {
+   "text": "alcohol.",
+   "type": "word",
+   "start": 1.373,
+   "end": 2.053
+  },
+  {
+   "text": "Um,",
+   "type": "word",
+   "start": 3.373,
+   "end": 3.633
+  },
+  {
+   "text": "this",
+   "type": "word",
+   "start": 4.853,
+   "end": 4.973
+  },
+  {
+   "text": "is",
+   "type": "word",
+   "start": 5.033,
+   "end": 5.153
+  },
+  {
+   "text": "not",
+   "type": "word",
+   "start": 5.253,
+   "end": 5.533
+  },
+  {
+   "text": "ideal.",
+   "type": "word",
+   "start": 5.713,
+   "end": 6.513
+  }
+ ],
+ "DJI_20260420063131_0058_D.MP4|157.780|172.090": [
+  {
+   "text": "Ugh,",
+   "type": "word",
+   "start": 0.123,
+   "end": 0.203
+  },
+  {
+   "text": "I",
+   "type": "word",
+   "start": 0.963,
+   "end": 1.023
+  },
+  {
+   "text": "hope",
+   "type": "word",
+   "start": 1.083,
+   "end": 1.323
+  },
+  {
+   "text": "it",
+   "type": "word",
+   "start": 1.343,
+   "end": 1.463
+  },
+  {
+   "text": "will",
+   "type": "word",
+   "start": 1.503,
+   "end": 1.643
+  },
+  {
+   "text": "be",
+   "type": "word",
+   "start": 1.723,
+   "end": 1.943
+  },
+  {
+   "text": "good",
+   "type": "word",
+   "start": 2.003,
+   "end": 2.403
+  },
+  {
+   "text": "[laughs]",
+   "type": "audio_event",
+   "start": 2.403,
+   "end": 2.803
+  },
+  {
+   "text": ",",
+   "type": "word",
+   "start": 2.803,
+   "end": 2.803
+  },
+  {
+   "text": "but",
+   "type": "word",
+   "start": 2.903,
+   "end": 3.223
+  },
+  {
+   "text": "he",
+   "type": "word",
+   "start": 3.283,
+   "end": 3.443
+  },
+  {
+   "text": "plunged",
+   "type": "word",
+   "start": 3.483,
+   "end": 3.943
+  },
+  {
+   "text": "twice",
+   "type": "word",
+   "start": 4.543,
+   "end": 4.863
+  },
+  {
+   "text": "into",
+   "type": "word",
+   "start": 4.903,
+   "end": 5.143
+  },
+  {
+   "text": "the",
+   "type": "word",
+   "start": 5.183,
+   "end": 5.283
+  },
+  {
+   "text": "water.",
+   "type": "word",
+   "start": 5.323,
+   "end": 5.743
+  },
+  {
+   "text": "I",
+   "type": "word",
+   "start": 6.283,
+   "end": 6.343
+  },
+  {
+   "text": "think,",
+   "type": "word",
+   "start": 6.423,
+   "end": 6.683
+  },
+  {
+   "text": "I",
+   "type": "word",
+   "start": 7.243,
+   "end": 7.283
+  },
+  {
+   "text": "think",
+   "type": "word",
+   "start": 7.343,
+   "end": 7.583
+  },
+  {
+   "text": "I,",
+   "type": "word",
+   "start": 7.783,
+   "end": 7.803
+  },
+  {
+   "text": "I",
+   "type": "word",
+   "start": 8.003,
+   "end": 8.063
+  },
+  {
+   "text": "told",
+   "type": "word",
+   "start": 8.123,
+   "end": 8.363
+  },
+  {
+   "text": "him",
+   "type": "word",
+   "start": 8.403,
+   "end": 8.543
+  },
+  {
+   "text": "too",
+   "type": "word",
+   "start": 8.583,
+   "end": 8.683
+  },
+  {
+   "text": "many",
+   "type": "word",
+   "start": 8.723,
+   "end": 8.963
+  },
+  {
+   "text": "times,",
+   "type": "word",
+   "start": 9.023,
+   "end": 9.403
+  },
+  {
+   "text": "\"Leave",
+   "type": "word",
+   "start": 9.483,
+   "end": 9.723
+  },
+  {
+   "text": "me",
+   "type": "word",
+   "start": 9.783,
+   "end": 9.883
+  },
+  {
+   "text": "alone,\"",
+   "type": "word",
+   "start": 9.943,
+   "end": 10.303
+  },
+  {
+   "text": "and",
+   "type": "word",
+   "start": 10.943,
+   "end": 11.123
+  },
+  {
+   "text": "now",
+   "type": "word",
+   "start": 11.203,
+   "end": 11.483
+  },
+  {
+   "text": "he",
+   "type": "word",
+   "start": 11.603,
+   "end": 11.943
+  },
+  {
+   "text": "just",
+   "type": "word",
+   "start": 12.043,
+   "end": 12.303
+  },
+  {
+   "text": "want",
+   "type": "word",
+   "start": 12.463,
+   "end": 12.663
+  },
+  {
+   "text": "to",
+   "type": "word",
+   "start": 12.723,
+   "end": 12.863
+  },
+  {
+   "text": "drown",
+   "type": "word",
+   "start": 12.923,
+   "end": 13.303
+  },
+  {
+   "text": "himself.",
+   "type": "word",
+   "start": 13.363,
+   "end": 14.123
+  }
+ ],
+ "DJI_20260420063131_0058_D.MP4|173.920|179.410": [
+  {
+   "text": "I'm",
+   "type": "word",
+   "start": 0.113,
+   "end": 0.333
+  },
+  {
+   "text": "sorry.",
+   "type": "word",
+   "start": 0.453,
+   "end": 1.333
+  },
+  {
+   "text": "I,",
+   "type": "word",
+   "start": 1.893,
+   "end": 1.993
+  },
+  {
+   "text": "I,",
+   "type": "word",
+   "start": 2.153,
+   "end": 2.253
+  },
+  {
+   "text": "I,",
+   "type": "word",
+   "start": 2.393,
+   "end": 2.513
+  },
+  {
+   "text": "I...",
+   "type": "word",
+   "start": 2.613,
+   "end": 2.613
+  },
+  {
+   "text": "Don't",
+   "type": "word",
+   "start": 2.753,
+   "end": 2.953
+  },
+  {
+   "text": "leave",
+   "type": "word",
+   "start": 2.993,
+   "end": 3.173
+  },
+  {
+   "text": "me",
+   "type": "word",
+   "start": 3.233,
+   "end": 3.313
+  },
+  {
+   "text": "alone.",
+   "type": "word",
+   "start": 3.373,
+   "end": 3.773
+  },
+  {
+   "text": "Stay",
+   "type": "word",
+   "start": 3.893,
+   "end": 4.133
+  },
+  {
+   "text": "with",
+   "type": "word",
+   "start": 4.213,
+   "end": 4.433
+  },
+  {
+   "text": "me,",
+   "type": "word",
+   "start": 4.493,
+   "end": 4.633
+  },
+  {
+   "text": "please.",
+   "type": "word",
+   "start": 4.773,
+   "end": 5.353
+  }
+ ],
+ "DJI_20260420083629_0060_D.MP4|146.172|157.722": [
+  {
+   "text": "So",
+   "type": "word",
+   "start": 0.103,
+   "end": 0.283
+  },
+  {
+   "text": "the",
+   "type": "word",
+   "start": 0.343,
+   "end": 0.443
+  },
+  {
+   "text": "drone",
+   "type": "word",
+   "start": 0.503,
+   "end": 0.803
+  },
+  {
+   "text": "works.",
+   "type": "word",
+   "start": 0.883,
+   "end": 1.403
+  },
+  {
+   "text": "I",
+   "type": "word",
+   "start": 2.923,
+   "end": 2.943
+  },
+  {
+   "text": "don't",
+   "type": "word",
+   "start": 3.003,
+   "end": 3.123
+  },
+  {
+   "text": "know,",
+   "type": "word",
+   "start": 3.163,
+   "end": 3.343
+  },
+  {
+   "text": "after",
+   "type": "word",
+   "start": 3.823,
+   "end": 4.203
+  },
+  {
+   "text": "two",
+   "type": "word",
+   "start": 4.923,
+   "end": 5.043
+  },
+  {
+   "text": "times",
+   "type": "word",
+   "start": 5.163,
+   "end": 5.603
+  },
+  {
+   "text": "being",
+   "type": "word",
+   "start": 5.763,
+   "end": 6.003
+  },
+  {
+   "text": "into",
+   "type": "word",
+   "start": 6.063,
+   "end": 6.403
+  },
+  {
+   "text": "water.",
+   "type": "word",
+   "start": 6.463,
+   "end": 6.843
+  },
+  {
+   "text": "I",
+   "type": "word",
+   "start": 7.763,
+   "end": 7.783
+  },
+  {
+   "text": "need",
+   "type": "word",
+   "start": 7.843,
+   "end": 7.963
+  },
+  {
+   "text": "to",
+   "type": "word",
+   "start": 8.003,
+   "end": 8.123
+  },
+  {
+   "text": "read",
+   "type": "word",
+   "start": 8.203,
+   "end": 8.403
+  },
+  {
+   "text": "in",
+   "type": "word",
+   "start": 8.463,
+   "end": 8.543
+  },
+  {
+   "text": "the",
+   "type": "word",
+   "start": 8.583,
+   "end": 8.663
+  },
+  {
+   "text": "internet",
+   "type": "word",
+   "start": 8.703,
+   "end": 9.103
+  },
+  {
+   "text": "about",
+   "type": "word",
+   "start": 9.183,
+   "end": 9.463
+  },
+  {
+   "text": "it",
+   "type": "word",
+   "start": 9.503,
+   "end": 9.603
+  },
+  {
+   "text": "if",
+   "type": "word",
+   "start": 9.703,
+   "end": 9.803
+  },
+  {
+   "text": "this",
+   "type": "word",
+   "start": 9.863,
+   "end": 10.043
+  },
+  {
+   "text": "drone",
+   "type": "word",
+   "start": 10.123,
+   "end": 10.363
+  },
+  {
+   "text": "is",
+   "type": "word",
+   "start": 10.423,
+   "end": 10.523
+  },
+  {
+   "text": "waterproof.",
+   "type": "word",
+   "start": 10.583,
+   "end": 11.303
+  }
+ ],
+ "DJI_20260420083629_0060_D.MP4|159.916|163.546": [
+  {
+   "text": "Incredible",
+   "type": "word",
+   "start": 0.093,
+   "end": 0.693
+  },
+  {
+   "text": "[laughs]",
+   "type": "audio_event",
+   "start": 0.833,
+   "end": 2.873
+  },
+  {
+   "text": ".",
+   "type": "word",
+   "start": 2.873,
+   "end": 2.873
+  },
+  {
+   "text": "Nice",
+   "type": "word",
+   "start": 2.933,
+   "end": 3.393
+  }
+ ]
+}

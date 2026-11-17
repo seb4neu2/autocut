@@ -1,0 +1,24 @@
+{
+ "sentences": [
+  {
+   "text": "This is Sebastian.",
+   "start": 0.0,
+   "end": 1.2
+  },
+  {
+   "text": "Forty two minutes earlier, he had a simple choice: pay two thousand baht for a boat to the lake.",
+   "start": 2.12,
+   "end": 8.16
+  },
+  {
+   "text": "...or find his own way down.",
+   "start": 8.5,
+   "end": 9.98
+  },
+  {
+   "text": "He chose the shortcut.",
+   "start": 10.94,
+   "end": 12.4
+  }
+ ]
+}

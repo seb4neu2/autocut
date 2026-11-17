@@ -1,0 +1,14 @@
+# secrets and local-only things (C:\Work\AutoCut keeps them on the laptop)
+.env
+.env.*
+.venv/
+models/
+__pycache__/
+# media stays on the laptop
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.mkv

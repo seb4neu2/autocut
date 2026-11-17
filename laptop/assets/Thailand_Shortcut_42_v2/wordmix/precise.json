@@ -1,0 +1,1100 @@
+{
+ "42700_DJI_20240318_0091.MP4|153.96|because": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 153.96,
+  "word": "because",
+  "window": "because i'm sweaty",
+  "elevenlabs": [
+   153.96,
+   154.28
+  ],
+  "found": true,
+  "start": 153.94,
+  "end": 154.18,
+  "limits": [
+   153.52,
+   154.18
+  ],
+  "level_db": -23.7
+ },
+ "42700_DJI_20240318_0091.MP4|13.40|i'm": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 13.4,
+  "word": "i'm",
+  "window": "so i'm",
+  "elevenlabs": [
+   13.4,
+   13.62
+  ],
+  "found": true,
+  "start": 13.28,
+  "end": 13.8,
+  "limits": [
+   13.26,
+   14.11
+  ],
+  "level_db": -16.8
+ },
+ "42700_DJI_20240318_0091.MP4|166.70|stupid": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 166.7,
+  "word": "stupid",
+  "window": "maybe that was stupid maybe i should walk walk",
+  "elevenlabs": [
+   166.7,
+   167.02
+  ],
+  "found": true,
+  "start": 166.6,
+  "end": 167.06,
+  "limits": [
+   166.6,
+   167.06
+  ],
+  "level_db": -23.8
+ },
+ "42700_DJI_20240318_0091.MP4|87.38|the": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 87.38,
+  "word": "the",
+  "window": "because the commercial stuff is there",
+  "elevenlabs": [
+   87.38,
+   87.48
+  ],
+  "found": true,
+  "start": 87.345,
+  "end": 87.49,
+  "limits": [
+   86.83,
+   87.49
+  ],
+  "level_db": -21.1
+ },
+ "42900_DJI_20240318_0095.MP4|33.60|dogs": {
+  "clip": "42900_DJI_20240318_0095.MP4",
+  "src": 33.6,
+  "word": "dogs",
+  "window": "okay let's follow the dogs",
+  "elevenlabs": [
+   33.6,
+   34.06
+  ],
+  "found": true,
+  "start": 33.56,
+  "end": 34.24,
+  "limits": [
+   33.56,
+   34.43
+  ],
+  "level_db": -25.4
+ },
+ "42700_DJI_20240318_0091.MP4|28.10|no": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 28.1,
+  "word": "no",
+  "window": "i have no idea what the name is",
+  "elevenlabs": [
+   28.1,
+   28.2
+  ],
+  "found": true,
+  "start": 28.04,
+  "end": 28.21,
+  "limits": [
+   28.04,
+   28.21
+  ],
+  "level_db": -19.8
+ },
+ "42700_DJI_20240318_0091.MP4|229.44|idea": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 229.44,
+  "word": "idea",
+  "window": "i have no idea",
+  "elevenlabs": [
+   229.44,
+   229.84
+  ],
+  "found": true,
+  "start": 229.32,
+  "end": 230.02,
+  "limits": [
+   229.3,
+   230.24
+  ],
+  "level_db": -23.2
+ },
+ "42750_DJI_20240318_0092.MP4|65.12|very": {
+  "clip": "42750_DJI_20240318_0092.MP4",
+  "src": 65.12,
+  "word": "very",
+  "window": "it is very very far",
+  "elevenlabs": [
+   65.12,
+   65.4
+  ],
+  "found": true,
+  "start": 65.099,
+  "end": 65.5,
+  "limits": [
+   65.099,
+   65.5
+  ],
+  "level_db": -20.4
+ },
+ "42750_DJI_20240318_0092.MP4|65.50|very": {
+  "clip": "42750_DJI_20240318_0092.MP4",
+  "src": 65.5,
+  "word": "very",
+  "window": "it is very very far",
+  "elevenlabs": [
+   65.5,
+   65.74
+  ],
+  "found": true,
+  "start": 65.4,
+  "end": 65.68,
+  "limits": [
+   65.4,
+   65.68
+  ],
+  "level_db": -23.4
+ },
+ "42750_DJI_20240318_0092.MP4|70.88|far": {
+  "clip": "42750_DJI_20240318_0092.MP4",
+  "src": 70.88,
+  "word": "far",
+  "window": "let's talk to you more",
+  "elevenlabs": [
+   70.88,
+   71.34
+  ],
+  "found": false,
+  "start": 70.76,
+  "end": 71.34,
+  "limits": [
+   70.68,
+   71.71
+  ],
+  "level_db": -26.0
+ },
+ "42750_DJI_20240318_0092.MP4|4.78|half": {
+  "clip": "42750_DJI_20240318_0092.MP4",
+  "src": 4.78,
+  "word": "half",
+  "window": "i have just one half liter and a half liter",
+  "elevenlabs": [
+   4.78,
+   5.12
+  ],
+  "found": true,
+  "start": 4.7,
+  "end": 5.04,
+  "limits": [
+   4.7,
+   5.04
+  ],
+  "level_db": -23.7
+ },
+ "42750_DJI_20240318_0092.MP4|6.50|liter": {
+  "clip": "42750_DJI_20240318_0092.MP4",
+  "src": 6.5,
+  "word": "liter",
+  "window": "like half liter of water",
+  "elevenlabs": [
+   6.5,
+   6.8
+  ],
+  "found": true,
+  "start": 6.415,
+  "end": 6.71,
+  "limits": [
+   6.38,
+   6.71
+  ],
+  "level_db": -24.7
+ },
+ "42700_DJI_20240318_0091.MP4|212.66|small": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 212.66,
+  "word": "small",
+  "window": "ananas",
+  "elevenlabs": [
+   212.66,
+   213.02
+  ],
+  "found": false,
+  "start": 212.54,
+  "end": 213.12,
+  "limits": [
+   212.24,
+   213.12
+  ],
+  "level_db": -20.7
+ },
+ "42700_DJI_20240318_0091.MP4|211.12|ananas": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 211.12,
+  "word": "ananas",
+  "window": "oh ananas",
+  "elevenlabs": [
+   211.12,
+   211.64
+  ],
+  "found": true,
+  "start": 211.025,
+  "end": 211.5,
+  "limits": [
+   210.78,
+   211.98
+  ],
+  "level_db": -18.6
+ },
+ "42750_DJI_20240318_0092.MP4|42.26|not": {
+  "clip": "42750_DJI_20240318_0092.MP4",
+  "src": 42.26,
+  "word": "not",
+  "window": "because why not",
+  "elevenlabs": [
+   42.26,
+   42.68
+  ],
+  "found": true,
+  "start": 42.2,
+  "end": 42.585,
+  "limits": [
+   42.2,
+   43.07
+  ],
+  "level_db": -24.3
+ },
+ "42700_DJI_20240318_0091.MP4|216.24|edible": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 216.24,
+  "word": "edible",
+  "window": "i don't know if they are eatable now",
+  "elevenlabs": [
+   216.24,
+   216.64
+  ],
+  "found": false,
+  "start": 216.18,
+  "end": 216.7,
+  "limits": [
+   216.18,
+   216.7
+  ],
+  "level_db": -23.7
+ },
+ "42850_DJI_20240318_0094.MP4|195.52|yes": {
+  "clip": "42850_DJI_20240318_0094.MP4",
+  "src": 195.52,
+  "word": "yes",
+  "window": "let's see",
+  "elevenlabs": [
+   195.52,
+   195.82
+  ],
+  "found": false,
+  "start": 195.505,
+  "end": 195.9,
+  "limits": [
+   195.07,
+   195.9
+  ],
+  "level_db": -15.4
+ },
+ "42700_DJI_20240318_0091.MP4|37.58|i": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 37.58,
+  "word": "i",
+  "window": "here i already packed",
+  "elevenlabs": [
+   37.58,
+   37.62
+  ],
+  "found": true,
+  "start": 37.49,
+  "end": 37.66,
+  "limits": [
+   37.0,
+   37.66
+  ],
+  "level_db": -21.8
+ },
+ "43150_DJI_20240318_0100.MP4|39.36|love": {
+  "clip": "43150_DJI_20240318_0100.MP4",
+  "src": 39.36,
+  "word": "love",
+  "window": "i love it as it's so peaceful",
+  "elevenlabs": [
+   39.36,
+   39.5
+  ],
+  "found": true,
+  "start": 39.28,
+  "end": 39.52,
+  "limits": [
+   39.28,
+   39.52
+  ],
+  "level_db": -29.2
+ },
+ "42700_DJI_20240318_0091.MP4|95.48|the": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 95.48,
+  "word": "the",
+  "window": "go with the boat",
+  "elevenlabs": [
+   95.48,
+   95.6
+  ],
+  "found": true,
+  "start": 95.44,
+  "end": 95.6,
+  "limits": [
+   95.42,
+   95.6
+  ],
+  "level_db": -23.8
+ },
+ "42950_DJI_20240318_0096.MP4|281.42|dogs": {
+  "clip": "42950_DJI_20240318_0096.MP4",
+  "src": 281.42,
+  "word": "dogs",
+  "window": "thank you dogs you found the best",
+  "elevenlabs": [
+   281.42,
+   281.74
+  ],
+  "found": true,
+  "start": 281.38,
+  "end": 281.82,
+  "limits": [
+   281.38,
+   281.82
+  ],
+  "level_db": -13.6
+ },
+ "42850_DJI_20240318_0094.MP4|257.44|me": {
+  "clip": "42850_DJI_20240318_0094.MP4",
+  "src": 257.44,
+  "word": "me",
+  "window": "will bring me to the new",
+  "elevenlabs": [
+   257.44,
+   257.56
+  ],
+  "found": true,
+  "start": 257.399,
+  "end": 257.6,
+  "limits": [
+   257.399,
+   257.6
+  ],
+  "level_db": -19.4
+ },
+ "42700_DJI_20240318_0091.MP4|10.82|hello": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 10.82,
+  "word": "hello",
+  "window": "42 hello 42",
+  "elevenlabs": [
+   10.82,
+   11.12
+  ],
+  "found": true,
+  "start": 10.815,
+  "end": 11.03,
+  "limits": [
+   10.37,
+   11.03
+  ],
+  "level_db": -15.0
+ },
+ "42850_DJI_20240318_0094.MP4|210.84|i'm": {
+  "clip": "42850_DJI_20240318_0094.MP4",
+  "src": 210.84,
+  "word": "i'm",
+  "window": "all right all right",
+  "elevenlabs": [
+   210.84,
+   211.08
+  ],
+  "found": false,
+  "start": 210.72,
+  "end": 211.22,
+  "limits": [
+   210.36,
+   211.22
+  ],
+  "level_db": -19.9
+ },
+ "43100_DJI_20240318_0099.MP4|159.92|sebastian": {
+  "clip": "43100_DJI_20240318_0099.MP4",
+  "src": 159.92,
+  "word": "sebastian",
+  "window": "hi sebastian",
+  "elevenlabs": [
+   159.92,
+   160.48
+  ],
+  "found": true,
+  "start": 159.93,
+  "end": 160.66,
+  "limits": [
+   159.82,
+   160.8
+  ],
+  "level_db": -23.4
+ },
+ "42700_DJI_20240318_0091.MP4|11.21|forty-two": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 11.21,
+  "word": "forty-two",
+  "window": "hello 42",
+  "elevenlabs": [
+   11.22,
+   11.72
+  ],
+  "found": false,
+  "start": 11.12,
+  "end": 11.77,
+  "limits": [
+   11.12,
+   12.07
+  ],
+  "level_db": -19.8
+ },
+ "42700_DJI_20240318_0091.MP4|144.08|have": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 144.08,
+  "word": "have",
+  "window": "and have access",
+  "elevenlabs": [
+   144.08,
+   144.3
+  ],
+  "found": true,
+  "start": 144.045,
+  "end": 144.225,
+  "limits": [
+   143.59,
+   144.25
+  ],
+  "level_db": -16.4
+ },
+ "42700_DJI_20240318_0091.MP4|73.08|one": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 73.08,
+  "word": "one",
+  "window": "just take one",
+  "elevenlabs": [
+   73.2,
+   73.42
+  ],
+  "found": true,
+  "start": 73.08,
+  "end": 73.46,
+  "limits": [
+   73.06,
+   73.91
+  ],
+  "level_db": -19.3
+ },
+ "43150_DJI_20240318_0100.MP4|52.15|big": {
+  "clip": "43150_DJI_20240318_0100.MP4",
+  "src": 52.15,
+  "word": "big",
+  "window": "that's big",
+  "elevenlabs": [
+   52.2,
+   52.56
+  ],
+  "found": true,
+  "start": 52.16,
+  "end": 52.445,
+  "limits": [
+   52.16,
+   52.98
+  ],
+  "level_db": -26.6
+ },
+ "42700_DJI_20240318_0091.MP4|39.94|bag": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 39.94,
+  "word": "bag",
+  "window": "i have one big bag",
+  "elevenlabs": [
+   39.98,
+   40.3
+  ],
+  "found": true,
+  "start": 39.92,
+  "end": 40.41,
+  "limits": [
+   39.92,
+   40.74
+  ],
+  "level_db": -32.7
+ },
+ "42700_DJI_20240318_0091.MP4|161.27|a": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 161.27,
+  "word": "a",
+  "window": "i don't have a lot of water",
+  "elevenlabs": [
+   161.34,
+   161.38
+  ],
+  "found": true,
+  "start": 161.28,
+  "end": 161.42,
+  "limits": [
+   161.28,
+   161.42
+  ],
+  "level_db": -24.6
+ },
+ "42700_DJI_20240318_0091.MP4|285.51|hammock": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 285.51,
+  "word": "hammock",
+  "window": "i have a hammock",
+  "elevenlabs": [
+   285.54,
+   285.86
+  ],
+  "found": true,
+  "start": 285.51,
+  "end": 285.85,
+  "limits": [
+   285.51,
+   286.3
+  ],
+  "level_db": -12.2
+ },
+ "42700_DJI_20240318_0091.MP4|152.34|water": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 152.34,
+  "word": "water",
+  "window": "fresh water",
+  "elevenlabs": [
+   152.34,
+   152.76
+  ],
+  "found": true,
+  "start": 152.22,
+  "end": 152.855,
+  "limits": [
+   152.2,
+   153.15
+  ],
+  "level_db": -18.4
+ },
+ "42750_DJI_20240318_0092.MP4|40.14|trash": {
+  "clip": "42750_DJI_20240318_0092.MP4",
+  "src": 40.14,
+  "word": "trash",
+  "window": "of course trash",
+  "elevenlabs": [
+   40.18,
+   40.6
+  ],
+  "found": true,
+  "start": 40.135,
+  "end": 40.75,
+  "limits": [
+   40.1,
+   40.99
+  ],
+  "level_db": -23.4
+ },
+ "43250_DJI_20240318_0102.MP4|22.38|wine": {
+  "clip": "43250_DJI_20240318_0102.MP4",
+  "src": 22.38,
+  "word": "wine",
+  "window": "something there's some wine",
+  "elevenlabs": [
+   22.44,
+   22.94
+  ],
+  "found": true,
+  "start": 22.38,
+  "end": 23.12,
+  "limits": [
+   22.38,
+   23.29
+  ],
+  "level_db": -23.2
+ },
+ "42700_DJI_20240318_0091.MP4|91.05|two": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 91.05,
+  "word": "two",
+  "window": "and it costs like 2000 baht",
+  "elevenlabs": [
+   91.08,
+   91.26
+  ],
+  "found": false,
+  "start": 91.04,
+  "end": 91.32,
+  "limits": [
+   91.0,
+   91.32
+  ],
+  "level_db": -24.9
+ },
+ "42700_DJI_20240318_0091.MP4|79.85|one": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 79.85,
+  "word": "one",
+  "window": "i will take this one",
+  "elevenlabs": [
+   79.72,
+   79.86
+  ],
+  "found": true,
+  "start": 79.73,
+  "end": 79.98,
+  "limits": [
+   79.73,
+   79.98
+  ],
+  "level_db": -32.4
+ },
+ "42700_DJI_20240318_0091.MP4|146.46|lake": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 146.46,
+  "word": "lake",
+  "window": "to the beautiful lake",
+  "elevenlabs": [
+   146.5,
+   146.78
+  ],
+  "found": true,
+  "start": 146.44,
+  "end": 146.925,
+  "limits": [
+   146.44,
+   147.24
+  ],
+  "level_db": -20.0
+ },
+ "43050_DJI_20240318_0098.MP4|149.20|no": {
+  "clip": "43050_DJI_20240318_0098.MP4",
+  "src": 149.2,
+  "word": "no",
+  "window": "nope",
+  "elevenlabs": [
+   149.2,
+   149.4
+  ],
+  "found": false,
+  "start": 149.11,
+  "end": 149.43,
+  "limits": [
+   148.7,
+   149.9
+  ],
+  "level_db": -20.9
+ },
+ "42700_DJI_20240318_0091.MP4|132.07|boat": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 132.07,
+  "word": "boat",
+  "window": "i don't know how long the boat ride",
+  "elevenlabs": [
+   132.1,
+   132.34
+  ],
+  "found": true,
+  "start": 132.05,
+  "end": 132.28,
+  "limits": [
+   132.05,
+   132.28
+  ],
+  "level_db": -23.6
+ },
+ "42700_DJI_20240318_0091.MP4|273.12|in": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 273.12,
+  "word": "in",
+  "window": "i can't wait to get inside here but",
+  "elevenlabs": [
+   273.14,
+   273.4
+  ],
+  "found": false,
+  "start": 273.115,
+  "end": 273.42,
+  "limits": [
+   273.08,
+   273.42
+  ],
+  "level_db": -24.8
+ },
+ "42700_DJI_20240318_0091.MP4|200.33|trees": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 200.33,
+  "word": "trees",
+  "window": "man in between the trees it's not so hot",
+  "elevenlabs": [
+   200.38,
+   200.66
+  ],
+  "found": true,
+  "start": 200.33,
+  "end": 200.58,
+  "limits": [
+   200.32,
+   200.58
+  ],
+  "level_db": -19.4
+ },
+ "42750_DJI_20240318_0092.MP4|101.74|bye": {
+  "clip": "42750_DJI_20240318_0092.MP4",
+  "src": 101.74,
+  "word": "bye",
+  "window": "to work bye",
+  "elevenlabs": [
+   101.9,
+   102.56
+  ],
+  "found": true,
+  "start": 101.78,
+  "end": 102.49,
+  "limits": [
+   101.63,
+   102.83
+  ],
+  "level_db": -27.3
+ },
+ "42700_DJI_20240318_0091.MP4|154.36|i'm": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 154.36,
+  "word": "i'm",
+  "window": "because i'm sweaty",
+  "elevenlabs": [
+   154.36,
+   154.54
+  ],
+  "found": true,
+  "start": 154.28,
+  "end": 154.51,
+  "limits": [
+   154.28,
+   154.51
+  ],
+  "level_db": -18.8
+ },
+ "42700_DJI_20240318_0091.MP4|111.76|a": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 111.76,
+  "word": "a",
+  "window": "find a way in for myself",
+  "elevenlabs": [
+   111.84,
+   111.94
+  ],
+  "found": true,
+  "start": 111.72,
+  "end": 111.95,
+  "limits": [
+   111.29,
+   111.95
+  ],
+  "level_db": -24.2
+ },
+ "42700_DJI_20240318_0091.MP4|39.35|one": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 39.35,
+  "word": "one",
+  "window": "i have one big bag",
+  "elevenlabs": [
+   39.44,
+   39.62
+  ],
+  "found": true,
+  "start": 39.36,
+  "end": 39.59,
+  "limits": [
+   39.36,
+   39.59
+  ],
+  "level_db": -30.6
+ },
+ "42700_DJI_20240318_0091.MP4|31.73|lake": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 31.73,
+  "word": "lake",
+  "window": "hills and there is a lake",
+  "elevenlabs": [
+   31.74,
+   32.02
+  ],
+  "found": true,
+  "start": 31.69,
+  "end": 32.02,
+  "limits": [
+   31.69,
+   32.48
+  ],
+  "level_db": -22.4
+ },
+ "42700_DJI_20240318_0091.MP4|125.99|boat": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 125.99,
+  "word": "boat",
+  "window": "i will go tomorrow with the boat today",
+  "elevenlabs": [
+   126.02,
+   126.34
+  ],
+  "found": true,
+  "start": 125.96,
+  "end": 126.25,
+  "limits": [
+   125.96,
+   126.25
+  ],
+  "level_db": -23.1
+ },
+ "42700_DJI_20240318_0091.MP4|199.68|in": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 199.68,
+  "word": "in",
+  "window": "amazing here man and between the trees it's not so",
+  "elevenlabs": [
+   199.72,
+   199.78
+  ],
+  "found": false,
+  "start": 199.6,
+  "end": 199.84,
+  "limits": [
+   199.18,
+   199.84
+  ],
+  "level_db": -21.0
+ },
+ "42700_DJI_20240318_0091.MP4|153.94|because": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 153.94,
+  "word": "because",
+  "window": "because i'm sweaty",
+  "elevenlabs": [
+   153.96,
+   154.28
+  ],
+  "found": true,
+  "start": 153.94,
+  "end": 154.18,
+  "limits": [
+   153.52,
+   154.18
+  ],
+  "level_db": -23.7
+ },
+ "42700_DJI_20240318_0091.MP4|166.67|stupid": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 166.67,
+  "word": "stupid",
+  "window": "maybe that was stupid maybe i should walk with it",
+  "elevenlabs": [
+   166.7,
+   167.02
+  ],
+  "found": true,
+  "start": 166.6,
+  "end": 166.93,
+  "limits": [
+   166.6,
+   166.93
+  ],
+  "level_db": -23.8
+ },
+ "42750_DJI_20240318_0092.MP4|65.09|very": {
+  "clip": "42750_DJI_20240318_0092.MP4",
+  "src": 65.09,
+  "word": "very",
+  "window": "it is very very small",
+  "elevenlabs": [
+   65.08,
+   65.099
+  ],
+  "found": true,
+  "start": 65.029,
+  "end": 65.15,
+  "limits": [
+   65.029,
+   65.15
+  ],
+  "level_db": -21.6
+ },
+ "42750_DJI_20240318_0092.MP4|65.43|very": {
+  "clip": "42750_DJI_20240318_0092.MP4",
+  "src": 65.43,
+  "word": "very",
+  "window": "it is very very small",
+  "elevenlabs": [
+   65.5,
+   65.74
+  ],
+  "found": true,
+  "start": 65.4,
+  "end": 65.69,
+  "limits": [
+   65.4,
+   65.69
+  ],
+  "level_db": -23.4
+ },
+ "42750_DJI_20240318_0092.MP4|4.76|half": {
+  "clip": "42750_DJI_20240318_0092.MP4",
+  "src": 4.76,
+  "word": "half",
+  "window": "i have just one half litre and a half",
+  "elevenlabs": [
+   4.78,
+   5.12
+  ],
+  "found": true,
+  "start": 4.7,
+  "end": 5.04,
+  "limits": [
+   4.7,
+   5.04
+  ],
+  "level_db": -23.7
+ },
+ "42750_DJI_20240318_0092.MP4|6.42|liter": {
+  "clip": "42750_DJI_20240318_0092.MP4",
+  "src": 6.42,
+  "word": "liter",
+  "window": "a half liter of water",
+  "elevenlabs": [
+   6.5,
+   6.8
+  ],
+  "found": true,
+  "start": 6.415,
+  "end": 6.71,
+  "limits": [
+   6.38,
+   6.71
+  ],
+  "level_db": -24.7
+ },
+ "42700_DJI_20240318_0091.MP4|212.45|small": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 212.45,
+  "word": "small",
+  "window": "ananas small ananas",
+  "elevenlabs": [
+   212.66,
+   213.02
+  ],
+  "found": true,
+  "start": 212.54,
+  "end": 212.93,
+  "limits": [
+   212.24,
+   212.93
+  ],
+  "level_db": -20.7
+ },
+ "42700_DJI_20240318_0091.MP4|211.02|ananas": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 211.02,
+  "word": "ananas",
+  "window": "oh ananas",
+  "elevenlabs": [
+   211.12,
+   211.64
+  ],
+  "found": true,
+  "start": 211.025,
+  "end": 211.5,
+  "limits": [
+   210.78,
+   211.98
+  ],
+  "level_db": -18.6
+ },
+ "42750_DJI_20240318_0092.MP4|42.24|not": {
+  "clip": "42750_DJI_20240318_0092.MP4",
+  "src": 42.24,
+  "word": "not",
+  "window": "because why not",
+  "elevenlabs": [
+   42.26,
+   42.68
+  ],
+  "found": true,
+  "start": 42.2,
+  "end": 42.585,
+  "limits": [
+   42.2,
+   43.07
+  ],
+  "level_db": -24.3
+ },
+ "42700_DJI_20240318_0091.MP4|216.19|edible": {
+  "clip": "42700_DJI_20240318_0091.MP4",
+  "src": 216.19,
+  "word": "edible",
+  "window": "i don't know if they are eatable now",
+  "elevenlabs": [
+   216.24,
+   216.64
+  ],
+  "found": false,
+  "start": 216.18,
+  "end": 216.7,
+  "limits": [
+   216.18,
+   216.7
+  ],
+  "level_db": -23.7
+ },
+ "42850_DJI_20240318_0094.MP4|195.51|yes": {
+  "clip": "42850_DJI_20240318_0094.MP4",
+  "src": 195.51,
+  "word": "yes",
+  "window": "let's see",
+  "elevenlabs": [
+   195.52,
+   195.82
+  ],
+  "found": false,
+  "start": 195.505,
+  "end": 195.9,
+  "limits": [
+   195.07,
+   195.9
+  ],
+  "level_db": -15.4
+ },
+ "43150_DJI_20240318_0100.MP4|39.16|love": {
+  "clip": "43150_DJI_20240318_0100.MP4",
+  "src": 39.16,
+  "word": "love",
+  "window": "i love it as it's so peaceful",
+  "elevenlabs": [
+   39.36,
+   39.5
+  ],
+  "found": true,
+  "start": 39.28,
+  "end": 39.5,
+  "limits": [
+   39.28,
+   39.5
+  ],
+  "level_db": -29.2
+ }
+}

@@ -1,0 +1,2 @@
+TEXT GAG  (optional, ~2.5s)
+"Spoiler: it was not a good idea."

@@ -1,0 +1,16 @@
+# Real config (Windows: pipeline and CapCut run on the same machine).
+
+# Only needed when the pipeline runs on a different OS than CapCut (e.g. Linux
+# reading the Data partition, CapCut on Windows). On Windows leave it empty —
+# the draft references each video by its real local path.
+path_mappings: []
+  # - linux_prefix: /mnt/data
+  #   windows_prefix: "D:\\"
+
+# CapCut's own drafts folder, so a generated draft shows up in CapCut directly.
+draft_output_dir: "C:\\Users\\niu\\AppData\\Local\\CapCut\\User Data\\Projects\\com.lveditor.draft"
+
+# Draft canvas size. Omit (or comment out) to use the first source video's
+# resolution (your DJI footage is 3840x2160).
+# video_width: 1920
+# video_height: 1080

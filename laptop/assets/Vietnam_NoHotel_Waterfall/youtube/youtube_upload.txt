@@ -1,0 +1,118 @@
+YOUTUBE UPLOAD - Vietnam: no hotel, Đray Nur Waterfall
+Chapter times match your final draft Vietnam_NoHotel_Waterfall_v3 (13:40, saved Oct 23 17:55). If you change the cut, the times move.
+
+==================== FINAL CHOICE (Oct 23) ====================
+Thumbnail: thumbnail_A_no-hotel.jpg  ("NO HOTEL? NO PROBLEM")
+Title:     I Lost My Camera in Vietnam. Village Kids Brought It Back
+
+The thumbnail tells the situation (no hotel, but happy at a waterfall), the title adds the twist (the lost camera).
+They do not repeat each other, so a viewer gets two reasons to click.
+Spare title, if the video is slow after a week: No Hotel in Vietnam, So I Slept Next to a Waterfall
+
+==================== DESCRIPTION (copy everything between the lines) ====================
+----------------------------------------------------------------------------------------
+No hotel, no plan, and then I lost my camera. 📷 This is the night three village boys in Vietnam searched for me in the dark and brought it back, asking for nothing. 🙏
+
+I rode a scooter out of Buôn Ma Thuột to find Đray Nur Waterfall, with no hotel and the sun already going down. 🛵🌊 I swam under the falls, got thrown out at 6 pm, and a stranger I met in the water invited me to camp with him by the river. ⛺🔥 In Europe, someone would have sold my camera. Here, the kids brought it to our campfire. Then came the party at the fire, a night in a hammock under the stars, a riverside gym with one hammer, Phở Bò for breakfast... and a small debt to the village kids. 🍜
+
+📍 Đray Nur Waterfall, Đắk Lắk, Vietnam - 21 km (about 45 min by scooter) from Buôn Ma Thuột 🛵
+🎟️ Entry: 50,000 VND
+🏨 Hotels booked: 0
+
+⏱️ CHAPTERS
+0:00 The camera came back
+0:39 Scooter ride out of Buôn Ma Thuột
+1:31 Đray Nur Waterfall
+3:02 The fisherman
+3:34 Thrown out at sunset
+4:48 A stranger invites me
+5:24 Camp by the river
+5:56 My camera is gone
+7:15 Party at the fire
+8:32 Kids and cigarettes
+9:03 Morning in a hammock
+10:10 The riverside gym
+10:53 Phở breakfast
+11:48 Paying our debt
+12:56 Final score
+
+👍 If you enjoyed the adventure, a like helps this video a lot.
+🔔 I just went from 99 to 100 subscribers in this video. Help me get to the next 100, and tell me in the comments: would you have camped with a stranger? 💬
+
+🐦 Asian koel recording: Greg Irving, xeno-canto.org (XC779913), licence CC BY-NC-SA 4.0 (creativecommons.org/licenses/by-nc-sa/4.0)
+
+#Vietnam #DrayNur #TravelVlog
+----------------------------------------------------------------------------------------
+
+==================== TAGS (paste into the Tags field) ====================
+vietnam, dray nur, dray nur waterfall, đray nur, buon ma thuot, dak lak, vietnam travel vlog, vietnam waterfall, central highlands vietnam, vietnam on a budget, budget travel vietnam, solo travel vietnam, camping vietnam, no hotel, travel vlog, adventure vlog, scooter trip vietnam, backpacking vietnam, lost camera, kind people vietnam, pho bo
+
+==================== THUMBNAILS (1280x720 JPG, in this folder) ====================
+Made by tools\make_thumbnails.py (frames and wording at the top of each version).
+thumbnail_A_no-hotel.jpg          CHOSEN (Oct 23): the falls from the drone | your smile in the water, "NO HOTEL? / NO PROBLEM"
+thumbnail_B_camera-back.jpg       night, you hold up the camera next to the boys, "LOST MY CAMERA / THEY BROUGHT IT BACK"
+thumbnail_C_my-hotel-tonight.jpg  the campfire, "MY HOTEL TONIGHT", five empty stars, "0 STARS"
+thumbnail_B3_camera_03_extended.jpg  Spare: AI-painted version of B, good for "Test & compare". You hold up the camera with the boys,
+                                  the falls at night and a big campfire behind, yellow divider, "LOST MY CAMERA / THEY BROUGHT IT BACK".
+                                  Made by tools\make_thumbnail_ai.py (picture ai_picture_camera_03_extended.png, text added locally:
+                                  --text-only ai_picture_camera_03_extended.png --seam 0.6468 redraws the text for free).
+                                  Not used: thumbnail_B2 (local montage, people see-through), B3_camera_01 (hard split edge),
+                                  B3_camera_02 (seamless, but the faces drifted too far from the real ones).
+Tip: YouTube Studio "Test & compare" can run A, B and C against each other with the same title.
+
+==================== UPLOAD SETTINGS ====================
+Category: Travel & Events
+Video language: English
+The swearing is bleeped and starred in the captions.
+Altered or synthetic content: the narrator is an AI voice and the Phở and Milo pictures are AI-made. YouTube asks for the label only for realistic content that could be taken as real; these do not pretend to be real people or events, so "No" is fine. Tick "Yes" if you want to be on the safe side.
+
+==================== SHORTS (4 drafts in CapCut, vertical 1080x1920) ====================
+Post Short 1 the day after the main video, then 2, 3 and 4 a few days apart. In each Short set the main
+video as "Related video" (YouTube Studio > Short > Details > Related video), so viewers tap through to it.
+Thumbnails (1080x1920) in youtube\shorts\, made by tools\make_short_thumbnails.py: first a local version
+(two real frames + headline), then Gemini made a punchier version of it (the AI ones are the picks).
+Upload it in the YouTube app when you post the Short (cover > add from gallery). If your app only lets you
+pick a frame, choose the hook frame with the big headline.
+
+--- Short 1: Vietnam_NoHotel_Waterfall_Short_camera (0:57) ---
+Thumbnail:   shorts\short_camera_ai_01.jpg   ("I LOST MY CAMERA / THEY BROUGHT IT BACK")
+Title:       I lost my camera in Vietnam. 3 village kids brought it back 📷
+Description: No reward, no questions. Three boys from the village searched the dark riverbank for me just to bring my camera back. 🙏 Then they became subscriber number 100, and the night turned into a party with a huge fire. 🔥 Full video on the channel! #Vietnam #KindPeople #Shorts
+
+--- Short 2: Vietnam_NoHotel_Waterfall_Short_waterfall (0:53) ---
+Thumbnail:   shorts\short_waterfall_ai_01.jpg   ("I THOUGHT IT WAS DRY / NOPE")
+Title:       I was sure this waterfall would be dry 🌊
+Description: April, the end of the dry season in Vietnam's Central Highlands. I expected a trickle. Then Đray Nur happened: about 30 m high and 250 m wide. 😮 Full video on the channel! #Vietnam #Waterfall #Shorts
+
+--- Short 3: Vietnam_NoHotel_Waterfall_Short_pee (0:49) ---
+Thumbnail:   shorts\short_pee_ai_01.jpg   ("DID YOU KNOW? / 75 LITRES IN ONE POOL")
+Title:       Did you know? Everybody pees in the pool 🏊
+Description: Michael Phelps said it, Canadian scientists measured it (75 litres in one pool!), and my dad has a rule about it. So what about a river in Vietnam? We checked the science. 🧪 Full video on the channel! #DidYouKnow #Vietnam #Shorts
+
+--- Short 4: Vietnam_NoHotel_Waterfall_Short_koel (0:41) ---
+Thumbnail:   shorts\short_koel_ai_03.jpg   ("5:30 AM / THIS BIRD SAYS "FOR REAL"")
+Title:       This bird says "for real" in English. For real 🐦
+Description: Half past five in the morning by a river in Vietnam, and the Asian koel starts singing. No nest of its own: it lets crows raise its chick. Maybe my spirit animal. 😅 Full video on the channel! #Vietnam #Birds #Shorts
+
+Thumbnail spares: short_*_local.jpg (the local versions, real frames only), short_koel_ai_01 and _02 (the bird
+covers "FOR REAL"), short_koel_ai_02_fixed (text redrawn over the bird's head).
+Note: the AI made the colours more dramatic than the real place (the pee thumbnail's waterfall is a turquoise
+dream version of Đray Nur). If that feels too far from the video, use the local version.
+
+Not used any more (first round): Short_zerostars (0:60, overlaps the koel Short) and Short_thrownout (replaced by the waterfall
+Short). Both drafts are still in CapCut; delete them there if you do not want them.
+
+Fact sources for the narrator lines (checked 2026-10-23):
+- Phelps, "I think everybody pees in the pool" (Wall Street Journal, 2012): cbsnews.com/news/michael-phelps-on-peeing-in-the-pool-everybody-does-it
+- 75 litres of urine in one 830,000 litre pool, University of Alberta, 2017: snexplores.org/article/scientists-know-you-pee-pool
+- Pee plus chlorine makes irritants (trichloramine): same study and health.clevelandclinic.org/should-you-really-pee-in-the-swimming-pool
+- No evidence that germs swim up while peeing; UTI bacteria come mostly from one's own gut: scienceinsights.org/can-swimming-cause-a-uti-the-real-risk-explained
+- The candiru (Amazon) story is not credibly documented: litfl.com/is-candiru-really-the-scourge-of-the-amazon
+- Đray Nur about 30 m high, 250 m long, on the Serepok: vietnamtourism.vn/en/index.php/tourism/items/3042
+- Asian koel lays its egg in crows' nests, builds no nest: en.wikipedia.org/wiki/Asian_koel
+Koel picture in Short 4 is AI-made (ai_koel_01.png); koel sound is your own recording (no credit needed).
+
+==================== STILL TO DO ====================
+- Koel licence is CC BY-NC-SA 4.0: fine while the channel is not monetised. If you swap in the koel from your own footage, delete the credit line.
+- Short 2 uses the koel from your own footage (DJI_0018 at 416 s, file sfx_asian-koel-own-recording-DJI_0018.mp3): no credit
+  needed there. Listen to it; if the hiss is too much, swap it for sfx_asian-koel-real-XC779913-greg-irving.mp3 and add the credit line.
